@@ -1,4 +1,5 @@
 import View from './View.js';
+
 import icons from '../../img/icons.svg'; //creating a path
 import fracty from 'fracty';
 import { Fraction } from 'fractional';
